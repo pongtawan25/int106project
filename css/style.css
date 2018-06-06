@@ -1,0 +1,32 @@
+body{
+    background-image: url("img/bg.jpg");
+}
+.fontNav{
+    font-family: 'Roboto', sans-serif;
+}
+.fontTH{
+    font-family: 'Kanit', sans-serif;
+}
+.fontHeadIpop{
+    font-family: 'Pacifico', cursive;
+}
+.fontRare{
+    font-family: 'Kavivanar', cursive;
+}
+.con1{
+    margin-top: 40px;
+}
+.imgContact{
+    height: 8%;
+    margin-left: 5%;
+}
+.imgHome{
+    width: 200px;
+}
+.imgShop{
+    height: 40%;
+}
+.bgAll{
+    background-image: url(img/bg2.jpg);
+    background-repeat: no-repeat;
+}
